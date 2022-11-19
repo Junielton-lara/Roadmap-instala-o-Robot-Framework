@@ -21,9 +21,9 @@ Deverá aparecer a versão do Python e do Gerenciador de pacotes com o número d
 ![image](https://user-images.githubusercontent.com/68928439/202868704-7a57a178-4cbe-4944-919a-ee990aa78901.png)
 ## 2 💻 Instalação chromedriver 🤖
 - [driver do chromedriver](https://chromedriver.chromium.org/downloads)
-- 
-####Obs: Baixar a mesma versão de acordo com seu navegador Chrome.
-####Coloque o driver do ChromeDriver dentro de um diretório, verifique se esse diretório escolhidoestárealmente no path do Windows, se você marcou na instalação não precisa, mas conferir nuncaédemais.Variáveis de Ambiente >> Path >> Editar >> Novo >> Adicionar o caminho >> Dar um cliqueem OK
+
+#### Obs: Baixar a mesma versão de acordo com seu navegador Chrome.
+#### Coloque o driver do ChromeDriver dentro de um diretório, verifique se esse diretório escolhidoestárealmente no path do Windows, se você marcou na instalação não precisa, mas conferir nuncaédemais.Variáveis de Ambiente >> Path >> Editar >> Novo >> Adicionar o caminho >> Dar um cliqueem OK
 
 ## 3 💻 Instalação IDE de desenvolvimento 🤖
 - [Visual Studio Code](https://code.visualstudio.com/)
