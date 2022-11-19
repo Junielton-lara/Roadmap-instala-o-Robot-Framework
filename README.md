@@ -41,7 +41,7 @@ Deverá aparecer a versão do Python e do Gerenciador de pacotes com o número d
 #### - Auto Import
 ## 5 💻 instalação Robot framework 🤖
 
-##no prompt de comando digite as instruções abaixo, e em seguida pressione enter:
+## no prompt de comando digite as instruções abaixo, e em seguida pressione enter:
 - pip install robotframework
 
 
@@ -50,7 +50,7 @@ Deverá aparecer a versão do Python e do Gerenciador de pacotes com o número d
 ##no prompt de comando digite as instruções abaixo, e em seguida pressione enter:
 - pip install robotframework-seleniumlibrary
 
-#Instalação finalizada!
+# Instalação finalizada!
 
 ### 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
 
