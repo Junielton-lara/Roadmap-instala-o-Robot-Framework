@@ -16,10 +16,11 @@ integrado virtualmente a qualquer outra ferramenta para criar soluçõesdeautoma
 
 ### 🤖
 
-
-Abaixo, alguns vídeos/conteúdos de exemplo para você estudar, blz?
-
 - [1.Instalar o Python:](https://www.python.org/downloads/)
+#### 2.Após finalizada a instalação, vamos verificar se o Python e seu Gerenciador de pacotesforaminstalados com sucesso! Execute o prompt de comando e digite:
+python --version
+Deverá aparecer a versão do Python e do Gerenciador de pacotes com o número daversão baixada, como o exemplo abaixo:
+![image](https://user-images.githubusercontent.com/68928439/202868681-efbcbb42-2521-4456-bf69-c55870e94605.png)
 
 
 ### 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
