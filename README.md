@@ -25,10 +25,13 @@ Deverá aparecer a versão do Python e do Gerenciador de pacotes com o número d
 #### Obs: Baixar a mesma versão de acordo com seu navegador Chrome.
 #### Coloque o driver do ChromeDriver dentro de um diretório, verifique se esse diretório escolhidoestárealmente no path do Windows, se você marcou na instalação não precisa, mas conferir nuncaédemais.Variáveis de Ambiente >> Path >> Editar >> Novo >> Adicionar o caminho >> Dar um cliqueem OK
 
-## 3 -💻 Instalação IDE de desenvolvimento 🤖
+## 3 -💻 Instalação terminal de comando Git Bash 🤖
+- [Git bash](https://git-scm.com/downloads)
+
+## 4 -💻 Instalação IDE de desenvolvimento 🤖
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## 4 -💻 extensão VS CODE importantes 🤖
+## 5 -💻 extensão VS CODE importantes 🤖
 #### - Vamos agora instalar a extensão no VS CODE, Clique em Extensions
 #### - Digite python
 #### - Clique em Install.
@@ -45,7 +48,7 @@ Deverá aparecer a versão do Python e do Gerenciador de pacotes com o número d
 - pip install robotframework
 
 
-## 6 -💻 instalação biblioteca do Selenium para o Robot Framework 🤖
+## 7 -💻 instalação biblioteca do Selenium para o Robot Framework 🤖
 
 ##no prompt de comando digite as instruções abaixo, e em seguida pressione enter:
 - pip install robotframework-seleniumlibrary
