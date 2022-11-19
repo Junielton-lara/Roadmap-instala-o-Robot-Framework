@@ -18,6 +18,7 @@ integrado virtualmente a qualquer outra ferramenta para criar soluçõesdeautoma
 #### Após finalizada a instalação, vamos verificar se o Python e seu Gerenciador de pacotesforaminstalados com sucesso! Execute o prompt de comando e digite:
 python --version
 Deverá aparecer a versão do Python e do Gerenciador de pacotes com o número daversão baixada, como o exemplo abaixo:
+#
 ![image](https://user-images.githubusercontent.com/68928439/202868704-7a57a178-4cbe-4944-919a-ee990aa78901.png)
 ## 2 -💻 Instalação chromedriver 🤖
 - [driver do chromedriver](https://chromedriver.chromium.org/downloads)
